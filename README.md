@@ -36,7 +36,6 @@ It can detect and classify different fish species in real-time from videos or im
    ```bash
    git clone https://github.com/Kaigourav/MatsyaArk---Fish-Classification-.git
    cd MatsyaArk---Fish-Classification-
-````
 
 2. Create a virtual environment (recommended):
 
