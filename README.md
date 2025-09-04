@@ -16,7 +16,7 @@ It can detect and classify different fish species in real-time from videos or im
 ├── templates/            # HTML templates for web interface
 ├── Output/               # (optional) Inference outputs
 ├── videoplayback.mp4     # Sample demo video
-└── This\_the\_fish\_\*.mp4   # Additional test video
+└── This_the_fish.mp4   # Additional test video
 
 ````
 
