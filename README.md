@@ -1,4 +1,4 @@
-```markdown
+
 # 🐟 MatsyaArk – Fish Classification (YOLOv8)
 
 MatsyaArk is an AI-powered fish classification system built using **YOLOv8**.  
@@ -7,8 +7,7 @@ It can detect and classify different fish species in real-time from videos or im
 ---
 
 ## 📂 Project Structure
-```
-```markdown
+
 
 ├── app.py                # Flask app for running inference
 ├── requirements.txt      # Python dependencies
